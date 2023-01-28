@@ -96,18 +96,4 @@ public class Peaks{
 
         return min_max;   
     }
-
-    public static void main(String[] args){
-        //int[] data = {-9,10,11,12,13,14,15,16,17,18,10,2,7,8,4,42,2,22,362,32,73,273,27,7};
-        //System.out.println(numPeaks(data));
-        //int[] arr = peaks(data);
-        //System.out.println(Arrays.toString(arr));
-        //System.out.println(Arrays.deepToString(minmax(data)));
-        	
-        	
-        	
-        	
-        int[] x;
-        x = new int[]{11,22,33};
-    }
 }
